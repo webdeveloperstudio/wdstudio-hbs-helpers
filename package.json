@@ -4,7 +4,7 @@
   "description": "HandlebarsJs for Helpers, built with <ვ by WD Studio",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/webdeveloperstudio/wdstudio-hbs-helpers/issues"
   },
-  "homepage": "https://github.com/webdeveloperstudio/wdstudio-hbs-helpers#readme"
+  "homepage": "https://github.com/webdeveloperstudio/wdstudio-hbs-helpers#readme",
+  "dependencies": {
+    "hbs": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/hbs": "^4.0.1",
+    "typescript": "^5.0.2"
+  }
 }
