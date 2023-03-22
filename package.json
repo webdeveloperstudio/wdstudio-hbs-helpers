@@ -1,0 +1,28 @@
+{
+  "name": "wdstudio-hbs-helpers",
+  "version": "1.0.0",
+  "description": "HandlebarsJs for Helpers, built with <ვ by WD Studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdeveloperstudio/wdstudio-hbs-helpers.git"
+  },
+  "keywords": [
+    "HBS",
+    "Handlebars",
+    "Handlebarsjs",
+    "helpers",
+    "wd",
+    "studio",
+    "wdstudio"
+  ],
+  "author": "WD Studio <@MerabC>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webdeveloperstudio/wdstudio-hbs-helpers/issues"
+  },
+  "homepage": "https://github.com/webdeveloperstudio/wdstudio-hbs-helpers#readme"
+}
